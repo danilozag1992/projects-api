@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12be4d30-73fd-47ef-9042-10378df68811" name="Default Changelist" comment="" />
+    <list default="true" id="12be4d30-73fd-47ef-9042-10378df68811" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/projects_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/initializers/active_model_serializers.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/controllers/projects_controller_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/routing/projects_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/support/json_api_helpers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunManager" selected="Rails.Development: api">
     <configuration name="Development: api" type="RailsRunConfigurationType" factoryName="Rails">
@@ -131,11 +147,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592748480493</updated>
-      <workItem from="1592748487119" duration="815000" />
+      <workItem from="1592748487119" duration="9749000" />
+      <workItem from="1592763153527" duration="4873000" />
+      <workItem from="1592813148405" duration="4869000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="124" width="800" height="729" key="#Intentions" timestamp="1592755789629">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="348" y="124" width="800" height="729" key="#Intentions/67.27.1373.873@67.27.1373.873" timestamp="1592755789629" />
+    <state x="224" y="86" key="SettingsEditor" timestamp="1592755006649">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="224" y="86" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1592755006649" />
+    <state x="417" y="108" width="670" height="676" key="search.everywhere.popup" timestamp="1592755833911">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="417" y="108" width="670" height="676" key="search.everywhere.popup/67.27.1373.873@67.27.1373.873" timestamp="1592755833911" />
   </component>
 </project>
